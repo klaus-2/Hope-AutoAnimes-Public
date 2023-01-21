@@ -18,7 +18,7 @@
     "request": "^2.88.2",
     "require-text": "^0.0.1",
     "simple-node-logger": "^21.8.12",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.5.0",
     "undici": "^5.8.2"
   }
 }
